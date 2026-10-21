@@ -99,7 +99,7 @@ behavior in my own browser.
 - Phase 3 product-list queries and hydration
 - Phases 4 to 8: Server Actions, route protection, database, tests, deploy
 
-## Final stage — `use cache` (learned outside this project)
+## Final stage (For Later) — `use cache` (learned outside this project)
 
 This topic left the plan. I learn it in a small throwaway Next.js app, after the
 last phase, and not inside NextCommerce. The project keeps one model: `fetch`
